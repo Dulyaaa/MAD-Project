@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ClothingStore</string>
+    <string name="welcome1">welcome1</string>
+    <string name="log_in_to_your_account">log_in_to_your_account</string>
+    <string name="username">username</string>
+    <string name="password2">password2</string>
+    <string name="login">login</string>
+    <string name="sign_up">sign_up</string>
+    <string name="don_t_have_one">don_t_have_one</string>
+    <string name="forgotten_your_password">forgotten_your_password</string>
+    <string name="welcome">welcome</string>
+    <string name="sign_up_here">sign_up_here</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="phone1">phone1</string>
+    <string name="password">password</string>
+    <string name="send">send</string>
+    <string name="emailverify">emailverify</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="emailverify1">Please enter your email below. We will send you a verification email shortly.</string>
+    <string name="email1">Email</string>
+    <string name="update">update</string>
+    <string name="phone">phone</string>
+    <string name="my_profile">my_profile</string>
+    <string name="my_profile1">My Profile</string>
+</resources>
