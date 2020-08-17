@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Myorder</string>
+    <string name="view_my_order">View my Order</string>
+    <string name="order_no1">Order Number: AQW1480</string>
+    <string name="order_date1">Order Date : 10/08/2020r</string>
+    <string name="tot1">Total Price: LKR 2880.00</string>
+    <string name="s1">Status : Pending</string>
+
+    <string name="order_no2">Order Number: AQW 180</string>
+    <string name="order_date2">Order Date : 10/08/2020r</string>
+    <string name="tot2">Total Price : LKR 1450.00</string>
+    <string name="s2">Status : Pendingr</string>
+
+    <string name="order_no3">Order Number: AQW 159</string>
+    <string name="order_date3">Order Date : 11/08/2020r</string>
+    <string name="tot3">Total Price : LKR 1450.00</string>
+    <string name="s3">Status : Pendingr</string>
+
+    <string name="v1">View</string>
+    <string name="r1">Re-order</string>
+    <string name="d1">Delete</string>
+    <string name="v2">View</string>
+    <string name="r2">Re-order</string>
+    <string name="d2">Delete</string>
+    <string name="v3">View</string>
+    <string name="r3">Re-order</string>
+    <string name="d3">Delete</string>
+
+
+
+    <string name="rate_app">Rate this App</string>
+    <string name="tell">Tell others what you think</string>
+    <string name="title">Title</string>
+    <string name="comment">Comments</string>
+    <string name="send">Send</string>
+    <string name="app_name">GiveRate</string>
+
+    <string name="app_name">OrderHistory</string>
+    <string name="order_no">Order Number : XXXXXXX</string>
+    <string name="order_date">Order Date : XX/XX/XXXX</string>
+    <string name="shipping_date">Shipping Date : XX/XX/XXXX</string>
+    <string name="tot_price">Total Price :LKR XXXX</string>
+
+    <string name="order_no2">Order Number : XXXXXXX</string>
+    <string name="order_date2">Order Date : XX/XX/XXXX</string>
+    <string name="shipping_date2">Shipping Date : XX/XX/XXXX</string>
+    <string name="tot_price2">Total Price :LKR XXXX</string>
+
+    <string name="order_no3">Order Number : XXXXXXX</string>
+    <string name="order_date3">Order Date : XX/XX/XXXX</string>
+    <string name="shipping_date3">Shipping Date : XX/XX/XXXX</string>
+    <string name="tot_price3">Total Price :LKR XXXX</string>
+
+    <string name="btn1">Rate this App</string>
+    <string name="btn2">View my orders</string>
+
+    <string name="review">Review and ratings</string>
+    <string name="app_name">Review</string>
+    <string name="no">4.6</string>
+    <string name="btn6">View order history</string>
+    <string name="level">5 ______________________\n4______________\n3_____\n2___\n1__</string>
+    <string name="riyaza">Riyaza Niyaza(09/05/2020)\n* * * * *\nIt is very nice app.Thanks for allowing us to buy online via mobile phones.</string>
+    <string name="Anna">Anna Fenton(26/05/2020)\n* * * *\nThe best app. I like it because its easy to use.</string>
+
+</resources>
