@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="title_activity_product_admin">ProductAdmin</string>
+</resources>
